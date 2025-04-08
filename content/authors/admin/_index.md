@@ -58,7 +58,7 @@ education:
   - area: MSc in Psychology
     institution: Maastricht University
     date_start: 2014-08-01
-    date_end: 2015-09-31
+    date_end: 2015-09-30
     #summary: |
     #  GPA: 3.8/4.0
 
