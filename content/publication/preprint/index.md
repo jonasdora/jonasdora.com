@@ -43,7 +43,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'dora_barlab_preprint'
+url_pdf: 'dora_barlab_preprint.pdf'
 url_code: 'https://osf.io/j9bkq/'
 url_dataset: 'https://osf.io/j9bkq/'
 url_poster: ''
