@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Dora_et_al_2023_PB.pdf'
+url_pdf: '/uploads/Dora_et_al_2023_PB.pdf'
 url_code: 'https://osf.io/jcr2q/'
 url_dataset: ''
 url_poster: ''
