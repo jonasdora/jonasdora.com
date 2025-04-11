@@ -1,7 +1,17 @@
 ---
 title: "How people decide to consume (more) alcohol when feeling stressed"
 authors:
-- admin, Maxwell Shinn, Amber Copeland, Elizabeth Neilson, Nicole Weiss, Katie Witkiewitz, James Murphy, Matt Field, William George, Kevin King
+- admin
+- Maxwell Shinn
+- Amber Copeland
+- Elizabeth Neilson
+- Nicole Weiss
+- Katie Witkiewitz
+- James Murphy
+- Matt Field 
+- William George
+- Kevin King
+
 date: "2025-01-01T00:00:00Z"
 doi: "https://doi.org/10.31234/osf.io/c7q9p"
 
