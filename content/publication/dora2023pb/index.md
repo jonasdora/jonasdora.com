@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'Dora_et_al_2023_PB'
 url_code: 'https://osf.io/jcr2q/'
 url_dataset: ''
 url_poster: ''
@@ -61,7 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: Kevin King'
   focal_point: ''
   preview_only: false
 
