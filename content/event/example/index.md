@@ -1,28 +1,31 @@
 ---
-title: Example Talk
+title: Multiple Imputation in EMA research - A practical introduction for applied researchers
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Annual meeting of the Society for Ambulatory Assessment
+event_url: https://saa2025.com/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+#location: Hugo Blox Builder HQ
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: My talk for the 2025 SAA conference.
+abstract: 'Background: Ecological Momentary Assessment (EMA) studies frequently encounter missing data due to participant non-response, technical issues, or study design. Ignoring missing data or using simple deletion methods can introduce substantial bias, distort parameter estimates, and lead to incorrect statistical inferences - particularly in intensive longitudinal data where missingness patterns may be systematic. While modern missing data techniques offer solutions, many applied researchers lack practical guidance on implementing multiple imputation (MI).
+Methods: Drawing from both successful and failed MI implementations in our lab's EMA datasets, I demonstrate the implementation of MI using the R package 'mice'. I provide step-by-step guidance on: (1) evaluating missing data patterns in intensive longitudinal data, (2) setting up appropriate imputation models that account for the nested structure of EMA data, (3) checking model convergence and imputation quality through diagnostic procedures, and (4) conducting both Bayesian and frequentist analyses using multiply imputed datasets. 
+Results: Using concrete examples, I illustrate how different analytical choices in the MI process affect research outcomes. I demonstrate common pitfalls, practical solutions, and decision points researchers face when implementing MI in EMA studies. Special attention is given to handling within-person dependencies and between-person differences in missing data patterns.
+Conclusions: This presentation provides applied researchers with accessible strategies for implementing MI in EMA research, informed by both successes and failures. Focussing on practical application, it should enable researchers to make informed decisions about handling missing data in their own studies. Our approach emphasizes both statistical rigor and real-world applicability in psychological research contexts.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2025-06-25'
+date_end: '2025-06-25'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-06-25'
 
 authors:
   - admin
@@ -30,7 +33,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -41,10 +44,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: 'https://osf.io/xjg24/files/osfstorage'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: 'https://osf.io/xjg24/files/osfstorage'
+url_video: 'https://osf.io/xjg24/files/osfstorage'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
