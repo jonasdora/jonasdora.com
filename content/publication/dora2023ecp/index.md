@@ -30,7 +30,10 @@ abstract: Evidence for negative reinforcement of alcohol use is mixed. One possi
 summary: In this experiment, participatings who regularly consume alcohol valued food less but did not value alcohol more following a negative mood manipulation.
 
 tags:
-- Source Themes
+- Alcohol use
+- Affect regulation
+- Drift diffusion modeling
+- Experiment
 featured: false
 
 # links:
