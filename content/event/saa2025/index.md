@@ -33,7 +33,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: SAA'
   focal_point: Right
 
 #links:
