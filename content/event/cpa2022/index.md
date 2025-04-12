@@ -17,7 +17,7 @@ abstract: 'It remains unclear whether people drink alcohol in response to the ex
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-04-207'
+date: '2022-04-07'
 #date_end: '2025-06-25'
 all_day: true
 
