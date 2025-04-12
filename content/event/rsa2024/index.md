@@ -41,7 +41,7 @@ featured: false
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://osf.io/xjg24/files/osfstorage'
+url_code: ''
 url_pdf: ''
 url_slides: 'uploads/RSA_2024_Jdora.pdf'
 url_video: ''
