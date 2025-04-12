@@ -44,7 +44,7 @@ image:
 url_code: 'https://osf.io/xjg24/files/osfstorage'
 url_pdf: ''
 url_slides: 'https://osf.io/xjg24/files/osfstorage'
-url_video: 'https://osf.io/xjg24/files/osfstorage'
+url_video: 'https://youtu.be/_IhcJP7Zrb4'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
