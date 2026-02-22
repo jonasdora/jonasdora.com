@@ -12,8 +12,8 @@ authors:
 - William George
 - Kevin King
 
-date: "2025-01-01T00:00:00Z"
-doi: "https://doi.org/10.31234/osf.io/c7q9p"
+date: "2025-10-01T00:00:00Z"
+doi: "https://doi.org/10.1111/add.70213"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,11 +21,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Addiction"
+publication_short: "Add"
 
 abstract: The tension reduction hypothesis posits that people consume alcohol to alleviate stress and negative emotions. Prior experimental studies supported this hypothesis by showing stress-induced increases in alcohol's absolute value. However, from a value-based decision-making perspective alcohol's value relative to alternatives should be more relevant for drinking decisions. We developed a novel exper-imental paradigm that subjected the hypothesis to a more stringent test by examining whether acute stress causes individuals to choose alcohol over appealing non-alcoholic alternatives, and the cogni-tive mechanisms that underpin this. Participants (N=160) rated various drinks and made repeated choices between alcoholic and non-alcoholic options before and after randomized manipulations of stress and alcohol intoxication (BrAC=.06%). Using drift diffusion modeling, we decomposed choices into three potential mechanisms, how carefully people make decisions, their sensitivity to prior drink preferences, and their bias to choose alcohol regardless of preference. Results showed that stress moderately increased choices for alcohol, but only in sober participants. Stress primarily affected de-cision-making by inducing a bias toward alcohol during evidence accumulation, without impacting de-cision carefulness or general evidence sensitivity. This computational bias was stronger than observed in raw choice behavior, suggesting that while stress consistently biases evaluation toward alcohol, this bias only sometimes overcomes competing considerations. The boundary condition that stress effects appeared only in sober participants suggests the tension reduction hypothesis may primarily explain initial drinking decisions rather than choices about continued consumption. These findings advance our mechanistic understanding of how stress influences alcohol-related decision-making and suggest interventions might focus on strengthening competing motivations during high-stress moments, par-ticularly during decisions about initiating drinking episodes.
 
@@ -43,7 +43,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '/uploads/dora_barlab_preprint.pdf'
+url_pdf: '/uploads/dora_et_al_2025_add.pdf'
 url_code: 'https://osf.io/j9bkq/'
 url_dataset: 'https://osf.io/j9bkq/'
 url_poster: ''

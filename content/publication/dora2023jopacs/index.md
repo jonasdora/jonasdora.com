@@ -38,7 +38,7 @@ tags:
 - Affect regulation
 - Specification curve
 - EMA
-featured: true
+featured: false
 
 # links:
 # - name: ""

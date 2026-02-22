@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://osf.io/preprints/psyarxiv/fvgyt_v1'
+url_pdf: '/uploads/Schultzetal2025.pdf'
 url_code: 'https://osf.io/pdvw8/'
 url_dataset: 'https://osf.io/pdvw8/'
 url_poster: ''

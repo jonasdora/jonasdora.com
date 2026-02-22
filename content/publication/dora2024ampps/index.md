@@ -35,7 +35,7 @@ tags:
 - Tutorial
 - EMA
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
