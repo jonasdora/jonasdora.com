@@ -37,7 +37,7 @@ tags:
 - Urgency
 - EMA
 
-featured: false
+featured: true
 
 links:
 #- name: Custom Link
